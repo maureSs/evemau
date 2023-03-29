@@ -54,9 +54,12 @@ import reynabrim from '../images/reynabrim.jpg';
               <Center>
                <h3> Feliz cumple </h3>
               </Center>
-              <Text>Feliz cumple pequitas locas. Cuando estes viendo esto seguro ya merendamos, nos vemos el viernes my lady.</Text>
+              <Text>Feliz cumple pequitas locas. Cuando estes viendo esto seguro estoy yendo a merendar con vos.</Text>
               <Center>
-               <Text>Te quiero muito</Text>
+               <Text>Ya no me alcanza el "te quiero" para expresarte lo que siento...</Text>
+              </Center>
+              <Center>
+                <Text>Nos vemos en un rato my lady.</Text>
               </Center>
               <Center>
                <Link href='https://www.youtube.com/watch?v=450p7goxZqg&ab_channel=johnlegendVEVO' target='blank' color='teal.500' >
