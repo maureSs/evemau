@@ -48,10 +48,10 @@ import { Box, Button, Center, FormControl, FormLabel, Input } from '@chakra-ui/r
              </Center>
               <Box color='white'>
               <Center>
-               <h3> Queres ser mi novia? </h3>
+               <h3> רוצה להיות חברה שלי? </h3>
               </Center>
               <Center>
-               <h3> Te amo </h3>
+               <h3> אני אוהב אותך </h3>
               </Center>
              </Box>
             </> 
